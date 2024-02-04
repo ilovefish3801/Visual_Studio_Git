@@ -25,7 +25,7 @@ int main()
     plus(4, 2);
     minus(4, 2);
     multiply(4, 2);
-    
+    division(4, 2);
 
     return 0;
 }
