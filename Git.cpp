@@ -22,5 +22,7 @@ int main()
 {
     cout << "Hello World!\n";
 
+    plus(4, 2);
+
     return 0;
 }
